@@ -2,7 +2,7 @@
 <h3 align="left">Passionate about frontend development and constantly improving my skills.</h3>
 <h3 align="left">https://portifolio-kelvyn.vercel.app/</h3>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=octaviosilva4275&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kelvynneris&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ### Connect with me:
