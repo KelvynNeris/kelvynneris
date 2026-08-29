@@ -53,7 +53,17 @@ I'm a Software Development student from Brazil, passionate about building effici
 
 ### 🍽️ Cantina Virtual
 
-A web-based system developed for canteen management.
+A web-based system developed for canteen management, allowing the organization and management of products and orders.
+
+**Technologies:**
+
+`Python` • `Flask` • `JavaScript` • `HTML` • `CSS` • `MySQL`
+
+---
+
+### 💈 Barbershop Scheduling System
+
+A web-based scheduling system developed for a barbershop, allowing customers to book appointments and helping manage available schedules and services.
 
 **Technologies:**
 
