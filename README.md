@@ -37,13 +37,11 @@ I'm a Software Development student from Brazil, passionate about building effici
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=kelvynneris&show_icons=true&theme=transparent&hide_border=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvynneris&layout=compact&theme=transparent&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kelvynneris&theme=github_dark" alt="GitHub Activity"/>
 
 </div>
 
