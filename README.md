@@ -95,7 +95,7 @@ Sistema web para gestão de cantina, com organização e controle de produtos e 
 
 `Python` `Flask` `JavaScript` `HTML` `CSS` `MySQL`
 
-🔗 Repositório: *(adicionar link)*
+🔗 [Repositório](https://github.com/GuilhermeLourenc0/Cantina-Virtual--NKTcompany)
 
 <br>
 
@@ -105,7 +105,7 @@ Sistema para gerenciar e organizar solicitações de materiais para uma construt
 
 `Python` `Flask` `MySQL` `JavaScript`
 
-🔗 Repositório: *(adicionar link)*
+🔗 [Repositório](https://github.com/KelvynNeris/SSConstrutora)
 
 <br>
 
