@@ -14,10 +14,6 @@
 
 <br>
 
-<table width="100%">
-<tr>
-<td valign="top" width="50%">
-
 ### 🧭 Sobre mim
 
 - 🎓 Técnico em Desenvolvimento de Sistemas, atualmente cursando **Análise e Desenvolvimento de Sistemas**
@@ -26,26 +22,33 @@
 - 🔐 Atenção particular a **segurança de aplicações web** — autenticação, proteção contra força bruta, CSRF, hashing de credenciais
 - 🛠️ Prefiro soluções enxutas: já entreguei sistemas **em produção** sem depender de frameworks pesados de front-end
 
-</td>
-<td valign="top" width="50%">
+<br>
 
 ### 🛠️ Tecnologias
 
 **Backend**
+<br>
 <img src="https://skillicons.dev/icons?i=python,flask,nodejs" />
 
+<br><br>
+
 **Frontend**
+<br>
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
 
+<br><br>
+
 **Banco de Dados**
+<br>
 <img src="https://skillicons.dev/icons?i=mysql" />
 
+<br><br>
+
 **Ferramentas**
+<br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
-</td>
-</tr>
-</table>
+<br>
 
 <br>
 
