@@ -1,5 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kelvyn%20Neris&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Desenvolvedor%20de%20Software%20-%20Backend%20e%20Full%20Stack&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header" width="100%"/>
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Space+Grotesk&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=Kelvyn+Neris;Desenvolvedor+de+Software;Backend+e+Full+Stack)](https://github.com/KelvynNeris)
+
 </div>
 
 <div align="center">
