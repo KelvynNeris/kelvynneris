@@ -34,7 +34,8 @@
 
 **Frontend**
 <br>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" height="48"/>
 
 <br><br>
 
@@ -107,13 +108,6 @@ Sistema para gerenciar e organizar solicitações de materiais para uma construt
 </div>
 
 ## 📊 Estatísticas
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KelvynNeris&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvynNeris&layout=compact&theme=default&hide_border=true" />
-
-</div>
 
 <div align="center">
 
